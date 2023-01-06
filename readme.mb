@@ -1,3 +1,10 @@
-#Hello World
-
-Hello
+git init -> make a file .git
+git status
+git add - > tracking a new file
+git commit -m "[message]" - > commit all the documents
+git branch - > shows all the branches
+git branch [branch name] - > create new branches
+git checkout [branch name] - > change the current branch
+git merge - > merging the branches
+git push - > pushing the files to the remote repository
+git pull - > update the local repository
